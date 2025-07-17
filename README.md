@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hey there! 👋
 
 <!--
 **yashm002/yashm002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
